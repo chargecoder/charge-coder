@@ -1,3 +1,3 @@
 # charge-coder
 this my first project file <br />
-Author - Vikas Kotiyan
+Author - (Coder Vikas Kotiyan)
